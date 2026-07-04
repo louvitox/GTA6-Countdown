@@ -2,7 +2,7 @@
   "name": "GTA VI — Compte à rebours Vice City",
   "short_name": "GTA VI Countdown",
   "description": "Compte à rebours, playlist des trailers et comparatif de prix pour GTA VI.",
-  "start_url": "./gta6-countdown.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0a0910",
   "theme_color": "#ff3d77",
